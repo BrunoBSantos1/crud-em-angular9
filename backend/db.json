@@ -14,6 +14,21 @@
       "id": 3,
       "name": "Sansung S20",
       "price": 5000.89
+    },
+    {
+      "name": "Veio do Formulario",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1899.99",
+      "id": 5
+    },
+    {
+      "name": "Café",
+      "price": "5.70",
+      "id": 6
     }
   ]
 }
